@@ -70,6 +70,7 @@ function App() {
       let downloadUrl = '';
       let thumbnailUrl = '';
 
+      // request type
       switch (type) {
         case 'instagram-profile':
           downloadUrl = item.user.profile_pic_url || '';
