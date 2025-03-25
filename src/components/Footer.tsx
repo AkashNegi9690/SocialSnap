@@ -24,6 +24,7 @@ export default function Footer() {
           
           <div className="text-gray-500 text-sm">
            <div>AKash Negi</div> © 2024 SocialSnap. All rights reserved.
+          <div>blah blah blah</div>
           </div>
         </div>
       </div>
